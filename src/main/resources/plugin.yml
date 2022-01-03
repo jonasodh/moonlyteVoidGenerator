@@ -1,0 +1,7 @@
+name: MoonlyteVoidGenerator
+version: '${project.version}'
+main: moonlyte.moonlytevoidgenerator.MoonlyteVoidGenerator
+load: STARTUP
+api-version: 1.18
+authors: [ Jonas ]
+description: Set world to void
