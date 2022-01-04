@@ -1,8 +1,5 @@
 package moonlyte.moonlytevoidgenerator.classes;
-import org.bukkit.Material;
 import org.bukkit.generator.ChunkGenerator;
-import org.bukkit.generator.WorldInfo;
-import java.util.Random;
 
 public class voidGenerator extends ChunkGenerator {
     @Override
